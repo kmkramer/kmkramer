@@ -33,7 +33,7 @@ Kevin Kramer
 ---
 
 ## 🥒 Fun Fact
-When I’m not automating your infrastructure, you’ll find me dominating the pickleball court. 🏓 (Pickleball phenom in the making!) or trying to break my Jeep on the trails.
+When I’m not automating your infrastructure, you’ll find me dominating the pickleball court or trying to break my Jeep on the trails.
 
 ---
 
