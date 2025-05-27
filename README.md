@@ -8,16 +8,9 @@ Kevin Kramer
 ---
 
 ## 🛠️ What I Do
-- **Infrastructure Management:** Herding servers so you don’t have to.
-- **DevOps:** CI/CD pipelines so smooth, you’d think they butter themselves.
-- **Site Reliability Engineering:** Keeping the lights on (and the pagers quiet).
-
----
-
-## 💡 Top Skills
-- **Automation:** If it can be scripted, I’ve probably already done it (maybe twice).
-- **CI/CD:** Pushing code faster than my coffee kicks in.
-- **Kubernetes:** Spinning up clusters like a cloud-native DJ.
+- **Infrastructure Management:**
+- **DevOps:** CI/CD pipelines, Configuration Management
+- **Site Reliability Engineering:**
 
 ---
 
@@ -36,5 +29,3 @@ Kevin Kramer
 When I’m not automating your infrastructure, you’ll find me dominating the pickleball court or trying to break my Jeep on the trails.
 
 ---
-
-<!---“Why do it manually when you can automate it and have time for pickleball?”
