@@ -15,9 +15,7 @@ Kevin Kramer
 ---
 
 ## 🚢 Favorite Project
-[![docker-image-build-push](https://github.com/kmkramer/docker-image-build-push/raw/main/.github/assets/project-badge.png)](https://github.com/kmkramer/docker-image-build-push)  
-*Automate building and pushing Docker images. It’s like magic, but with more YAML.*
-
+My next role!
 ---
 
 ## 🤝 Connect With Me
