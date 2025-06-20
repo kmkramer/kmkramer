@@ -28,5 +28,6 @@ When I’m not automating your infrastructure, you’ll find me dominating the p
 
 ## Golden Nuggets
 - [SELINUX Coloring Book](https://cdn.sparkfun.com/assets/custom_pages/7/6/5/SELinux-Web.pdf)
-- 
+
+
 ---
